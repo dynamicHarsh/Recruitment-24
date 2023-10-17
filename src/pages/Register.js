@@ -92,7 +92,7 @@ function Register() {
     <input type="text" class="form-control" id="inputPassword4" name="Github" value={data.Github} onChange={changeUserData}/>
   </div>
   <div class="col-md-6">
-    <label for="inputEmail4" class="form-label">Linkedin*</label>
+    <label for="inputEmail4" class="form-label">Linkedin</label>
     <input type="text" class="form-control" id="inputEmail4" name="LinkedIn" placeholder="eg. https://www.linkedin.com/ssdc" value={data.LinkedIn} onChange={changeUserData}/>
   </div>
   <div class="col-md-6">
