@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Recruitment-24/static/css/main.14e8f5f1.css",
+    "main.js": "/Recruitment-24/static/js/main.a2c88b65.js",
+    "static/js/787.ca0c6541.chunk.js": "/Recruitment-24/static/js/787.ca0c6541.chunk.js",
+    "static/media/backgroung.jpg": "/Recruitment-24/static/media/backgroung.079478adc0f816f26de8.jpg",
+    "index.html": "/Recruitment-24/index.html",
+    "main.14e8f5f1.css.map": "/Recruitment-24/static/css/main.14e8f5f1.css.map",
+    "main.a2c88b65.js.map": "/Recruitment-24/static/js/main.a2c88b65.js.map",
+    "787.ca0c6541.chunk.js.map": "/Recruitment-24/static/js/787.ca0c6541.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14e8f5f1.css",
+    "static/js/main.a2c88b65.js"
+  ]
+}
