@@ -84,7 +84,7 @@ function Register() {
   </div>
   
   <div class="col-md-6">
-    <label for="inputEmail4" class="form-label">HackeerRank I'D*</label>
+    <label for="inputEmail4" class="form-label">HackerRank I'D*</label>
     <input type="text" class="form-control" id="inputEmail4" name="Hackerrank" placeholder="eg. https://www.hackerrank.com/username" value={data.Hackerrank} onChange={changeUserData} required/>
   </div>
   <div class="col-md-6">
