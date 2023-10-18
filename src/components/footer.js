@@ -14,7 +14,9 @@ const footer = () => {
         </div>
         <div className="ContactUs">
         <h5>For queries, Contact:</h5>
+        <h6><span className='designer'>Chandra Prakash Yadav</span>: 8957326826</h6>
           <h6><span className='designer'>Harsh Sonkar</span>: 9888982877</h6>
+         
         </div>
         
       </div>

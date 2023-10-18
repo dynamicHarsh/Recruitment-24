@@ -76,7 +76,7 @@ function Register() {
   </div>
   <div class="col-md-6">
     <label for="inputPassword4" class="form-label">Email*</label>
-    <input type="email" class="form-control" id="inputPassword4" name="Email" placeholder="eg. xyz@gmail.com" value={data.Email} onChange={changeUserData} required/>
+    <input type="email" class="form-control" id="inputPassword4" name="Email" placeholder="eg. 2140154@sliet.ac.in" value={data.Email} onChange={changeUserData} required/>
   </div>
   <div class="col-md-6">
     <label for="inputPassword4" class="form-label">Phone No.*</label>
