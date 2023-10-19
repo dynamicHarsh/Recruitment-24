@@ -89,22 +89,22 @@ function Register() {
   </div>
   <div class="col-md-6">
     <label for="inputPassword4" class="form-label">GitHub</label>
-    <input type="text" class="form-control" id="inputPassword4" name="Github" value={data.Github} onChange={changeUserData}/>
+    <input type="text" class="form-control" id="inputPassword4" placeholder="Optional" name="Github" value={data.Github} onChange={changeUserData}/>
   </div>
   <div class="col-md-6">
     <label for="inputEmail4" class="form-label">Linkedin</label>
-    <input type="text" class="form-control" id="inputEmail4" name="LinkedIn" placeholder="eg. https://www.linkedin.com/ssdc" value={data.LinkedIn} onChange={changeUserData}/>
+    <input type="text" class="form-control" id="inputEmail4" name="LinkedIn"  placeholder="Optional" value={data.LinkedIn} onChange={changeUserData}/>
   </div>
   <div class="col-md-6">
     <label for="inputPassword4" class="form-label"> CodeForces / CodeChef </label>
-    <input type="text" class="form-control" id="inputPassword4" name="CP" value={data.CP} onChange={changeUserData}/>
+    <input type="text" class="form-control" id="inputPassword4" placeholder="Optional" name="CP" value={data.CP} onChange={changeUserData}/>
   </div>
   <div class="col-md-12">
     <label for="inputPassword4" class="form-label"> Skills </label>
     <input type="text" class="form-control" id="inputPassword4" name="skills" value={data.skills} onChange={changeUserData}/>
   </div>
   <div class="col-md-12">
-    <label for="inputPassword4" class="form-label"> Resume </label>
+    <label for="inputPassword4" class="form-label"> Resume (Preferred) </label>
     <input type="file" class="form-control" id="inputPassword4" name='resume' onChange={(event)=>{setResume(event.target.files[0]);}}/>
   </div>
   <div class="col-md-12">
